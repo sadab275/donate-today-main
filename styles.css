@@ -118,8 +118,41 @@ body {
     padding-left: 42px;
     padding-top: 185px;
     padding-bottom: 93px;
-    border-radius: 9px;
+    border-radius: 3px;
     font-weight: 700px;
     color: #444b5c;
     /* height: 302px; */
+}
+
+.food {
+    background-color: aliceblue;
+}
+
+.family {
+    background-color: bisque;
+}
+
+.education {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: black;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 48px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+
+.ftph {
+    color: pink;
+    font-size: 40px;
+}
+
+.ftpp {
+    color: aqua;
+    font-size: 25px;
+    ;
 }
