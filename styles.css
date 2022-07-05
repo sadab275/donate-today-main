@@ -17,6 +17,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    margin-top: -56px;
 }
 
 .top-container h1 {
