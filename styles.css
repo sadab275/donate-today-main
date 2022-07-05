@@ -5,3 +5,101 @@ body {
     margin: 0;
 
 }
+
+.top-container {
+    /* max-width: 94%; */
+
+    background-image: url(images/donation7.jpg);
+    margin: 0%;
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.top-container h1 {
+    font-size: 66px;
+    color: aliceblue;
+    padding-top: 272px;
+    text-align: center;
+}
+
+.top-container p {
+    color: #728FCE;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(243, 74, 7), rgb(245, 123, 102));
+    padding: 20px 53px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+
+}
+
+.bottom-container {
+    text-align: center;
+}
+
+.donate-tk {
+    display: flex;
+
+}
+
+.box {
+    box-shadow: 10px 10px 40px gray;
+    width: 13%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 24px;
+    margin-bottom: 53px;
+    padding-left: 0px;
+    padding-top: 26px;
+    padding-bottom: 22px;
+    border-radius: 9px;
+    font-weight: 700px;
+    color: #444b5c;
+}
+
+.select {
+    color: red;
+    border: 7px solid rgb(252, 80, 80);
+    background-color: rgb(235, 152, 152);
+
+}
+
+.amount {
+    border-style: underline;
+    font-size: 25px;
+    width: 50%;
+    text-align: center;
+
+
+
+}
+
+.button-second {
+    padding-top: 10px;
+    margin-top: 43px;
+    ;
+}
+
+.btm-h {
+    font-size: 66px;
+    color: #010a13;
+    padding-top: 58px;
+    text-align: center;
+}
+
+.btm-p {
+    color: #10141d;
+    font-size: 20px;
+    text-align: center;
+}
