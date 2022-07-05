@@ -44,7 +44,7 @@ body {
 
 }
 
-.bottom-container {
+.middle-container {
     text-align: center;
 }
 
@@ -102,4 +102,24 @@ body {
     color: #10141d;
     font-size: 20px;
     text-align: center;
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.box2 {
+    box-shadow: 10px 10px 40px gray;
+    width: 24%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 72px;
+    padding-left: 42px;
+    padding-top: 185px;
+    padding-bottom: 93px;
+    border-radius: 9px;
+    font-weight: 700px;
+    color: #444b5c;
+    /* height: 302px; */
 }
