@@ -164,3 +164,35 @@ footer {
     font-weight: 900;
     font-size: 140px;
 }
+
+.donate-system {
+    display: flex;
+
+}
+
+.half-width {
+    width: 35%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.cont {
+    margin-top: 30px;
+}
+
+.half-width h1 {
+    font-size: 40px;
+    color: #010a13;
+
+}
+
+.half-width p {
+    font-size: 20px;
+    color: #010a13;
+    margin-top: 10px;
+    margin-bottom: 60px;
+
+
+}
