@@ -200,3 +200,44 @@ footer {
 .updates {
     text-align: center;
 }
+
+.inpts {
+    background-color: antiquewhite;
+    max-width: 50%;
+    margin: auto;
+    padding: 80px;
+    margin-top: 77px;
+    margin-bottom: 79px;
+}
+
+.eml {
+    height: 30px;
+    width: 238px;
+    margin-right: -3px;
+    background-color: lightgray;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.subsc {
+    height: 36px;
+    width: 124px;
+    background-color: #ed4949;
+    color: white;
+    font-size: 15px;
+}
+
+.updates h1 {
+    font-size: 40px;
+    color: #010a13;
+    font-weight: 700px;
+}
+
+.updates p {
+    font-size: 20px;
+    color: #010a13;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    text-align: center;
+    margin: 0px 32%;
+}
